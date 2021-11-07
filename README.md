@@ -10,10 +10,10 @@ You can find me on [![LinkedIn][1.2]][1]
 ![image](https://img.shields.io/badge/JavaScript-323330?=javascript&logoColor=F7DF1E)
 
 
-#### Github Stats
+#### Github Stats ![stats](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/stats.png?token=ARWCS6MB3XHZXU6AZP5BPUTBQ6VHY)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=gruvbox&show_icons=true)](https://github.com/GabrieleGhisleni)
-<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrieleGhisleni&layout=compact&theme=gruvbox)](https://wakatime.com/@GabrieleGhisleni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=gruvbox_light&show_icons=true)](https://github.com/GabrieleGhisleni)
+<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrieleGhisleni&layout=compact&theme=gruvbox_light)](https://wakatime.com/@GabrieleGhisleni)
  -->
 <a href="https://github.com/GabrieleGhisleni/EnergyProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=EnergyProject&theme=gruvbox_light&show_icons=true" />
