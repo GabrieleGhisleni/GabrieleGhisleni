@@ -7,7 +7,7 @@ You can find me on [![LinkedIn][1.2]][1]
 
 #### Tools & Programming Languagues ![tools](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/tools_24.png)
 
-![image](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/98bf59fd027cf34c98811c66a7ddc89d60a448cb/icons/python.svg)
+![image](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/98bf59fd027cf34c98811c66a7ddc89d60a448cb/icons/python.svg)![image](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/98bf59fd027cf34c98811c66a7ddc89d60a448cb/icons/javascript.svg)![image](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/98bf59fd027cf34c98811c66a7ddc89d60a448cb/icons/react.svg)![image](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/98bf59fd027cf34c98811c66a7ddc89d60a448cb/icons/docker.svg)
 
 
 #### Github Stats  ![stats](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/stats_24.png)
