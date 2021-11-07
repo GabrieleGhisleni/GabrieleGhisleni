@@ -5,9 +5,9 @@ Currently i am ending my Master degree in Data Science at the University of Tren
 
 You can find me on [![LinkedIn][1.2]][1] 
 
-#### Tools & Programming Languagues
+#### Tools & Programming Languagues ![tools](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/tools_24.png?token=ARWCS6N5P6ZSVETLJNSLKDDBQ6VTO)
 
-![image](https://img.shields.io/badge/JavaScript-323330?=javascript&logoColor=F7DF1E)
+![image](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/98bf59fd027cf34c98811c66a7ddc89d60a448cb/icons/python.svg?token=ARWCS6JRJC4ILVJJO3LARI3BQ6VZ2)
 
 
 #### Github Stats  ![stats](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/stats_24.png?token=ARWCS6NQJVAMHLOM6FFTHKLBQ6VL4)
