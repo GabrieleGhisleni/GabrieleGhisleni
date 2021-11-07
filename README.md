@@ -5,12 +5,12 @@ Currently i am ending my Master degree in Data Science at the University of Tren
 
 You can find me on [![LinkedIn][1.2]][1] 
 
-#### Tools & Programming Languagues ![tools](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/tools_24.png?token=ARWCS6N5P6ZSVETLJNSLKDDBQ6VTO)
+#### Tools & Programming Languagues ![tools](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/tools_24.png)
 
-![image](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/98bf59fd027cf34c98811c66a7ddc89d60a448cb/icons/python.svg?token=ARWCS6JRJC4ILVJJO3LARI3BQ6VZ2)
+![image](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/98bf59fd027cf34c98811c66a7ddc89d60a448cb/icons/python.svg)
 
 
-#### Github Stats  ![stats](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/stats_24.png?token=ARWCS6NQJVAMHLOM6FFTHKLBQ6VL4)
+#### Github Stats  ![stats](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/stats_24.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=gruvbox_light&show_icons=true)](https://github.com/GabrieleGhisleni)
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrieleGhisleni&layout=compact&theme=gruvbox_light)](https://wakatime.com/@GabrieleGhisleni)
