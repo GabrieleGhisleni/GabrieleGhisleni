@@ -12,7 +12,9 @@ You can find me on [![LinkedIn][1.2]][1]
 
 #### Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pn/?username=GabrieleGhisleni&theme=merko" />
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieleGhisleni)](https://github.com/GabrieleGhisleni/github-readme-stats)
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pn/?username=GabrieleGhisleni&theme=merko" /> -->
 
 
 <!-- Icons -->
