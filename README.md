@@ -10,6 +10,12 @@ You can find me on [![LinkedIn][1.2]][1]
 ![image](https://img.shields.io/badge/JavaScript-323330?=javascript&logoColor=F7DF1E)
 
 
+#### Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pn/?username=GabrieleGhisleni&theme=merko" />
+
+
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/linkedin_16x16.png?token=ARWCS6OL32Q4OIFY7U2VLD3BQ6NQE
 [1]: https://www.linkedin.com/in/gabriele-ghisleni-bb553a199/
+
