@@ -15,6 +15,9 @@ You can find me on [![LinkedIn][1.2]][1]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook)](https://github.com/GabrieleGhisleni/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieleGhisleni)](https://github.com/GabrieleGhisleni/github-readme-stats&show_icons=true&theme=radical))
 
+[![GitHub pinned](https://github-readme-stats.vercel.app/api/pin?username=GabrieleGhisleni)](https://github.com/GabrieleGhisleni/github-readme-stats&show_icons=true&theme=radical))
+
+
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pn/?username=GabrieleGhisleni&theme=merko" /> -->
 
 
