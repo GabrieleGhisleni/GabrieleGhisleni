@@ -14,9 +14,33 @@ You can find me on [![LinkedIn][1.2]][1]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook)](https://github.com/GabrieleGhisleni/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni" />
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieleGhisleni)](https://github.com/GabrieleGhisleni/github-readme-stats&show_icons=true&theme=radical))
+
+<a href="https://github.com/GabrieleGhisleni/EnergyProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=EnergyProject" />
+</a>
+
+<a href="https://github.com/GabrieleGhisleni/ImageRetrival-ConvNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=ImageRetrival-ConvNN" />
+</a>
+
+<a href="https://github.com/GabrieleGhisleni/Twitter-Social-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=Twitter-Social-Analysis" />
+</a>
+
+<a href="https://github.com/GabrieleGhisleni/WebScraping-Subito.it">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=WebScraping-Subito.it" />
+</a>
+
+<a href="https://github.com/GabrieleGhisleni/GasolinePrices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=GasolinePrices" />
+</a>
+
+<a href="https://github.com/GabrieleGhisleni/GG-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=GG-website" />
+</a>
+
+
 
 
 <!-- Icons -->
