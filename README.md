@@ -5,7 +5,7 @@ Currently i am ending my Master degree in Data Science at the University of Tren
 
 you can find me: 
 <ul style="list-style-type: none;">
-  <li>  <a href="https://github.com/GabrieleGhisleni"> @ icon-iconName fab fa-linkedin </i> <i class="fa fa-github fa-lg"></i> </li
+  <li>  <a href="https://github.com/GabrieleGhisleni"> @ fab fa-linkedin </i> <i class="fa fa-github fa-lg"></i> </li
 </ul
 
 
