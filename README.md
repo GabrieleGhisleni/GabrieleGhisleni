@@ -7,7 +7,7 @@ You can find me on [![LinkedIn][1.2]][1]
 
 #### Tools & Programming Languagues
 
-![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E} 
+![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
 
 
 <!-- Icons -->
