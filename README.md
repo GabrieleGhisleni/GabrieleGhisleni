@@ -12,31 +12,31 @@ You can find me on [![LinkedIn][1.2]][1]
 
 #### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook)](https://github.com/GabrieleGhisleni)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrieleGhisleni)](https://github.com/GabrieleGhisleni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=gruvbox &show_icons=true)](https://github.com/GabrieleGhisleni)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrieleGhisleni&theme=gruvbox &show_icons=true)](https://wakatime.com/@GabrieleGhisleni)
 
 <a href="https://github.com/GabrieleGhisleni/EnergyProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=EnergyProject" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=EnergyProject&theme=gruvbox &show_icons=true" />
 </a>
 
 <a href="https://github.com/GabrieleGhisleni/ImageRetrival-ConvNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=ImageRetrival-ConvNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=ImageRetrival-ConvNN&theme=gruvbox &show_icons=true" />
 </a>
 
 <a href="https://github.com/GabrieleGhisleni/Twitter-Social-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=Twitter-Social-Analysis" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=Twitter-Social-Analysis&theme=gruvbox &show_icons=true" />
 </a>
 
 <a href="https://github.com/GabrieleGhisleni/WebScraping-Subito.it">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=WebScraping-Subito.it" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=WebScraping-Subito.it&theme=gruvbox &show_icons=true" />
 </a>
 
 <a href="https://github.com/GabrieleGhisleni/GasolinePrices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=GasolinePrices" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=GasolinePrices&theme=gruvbox &show_icons=true" />
 </a>
 
 <a href="https://github.com/GabrieleGhisleni/GG-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=GG-website" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=GG-website&theme=gruvbox &show_icons=true" />
 </a>
 
 
