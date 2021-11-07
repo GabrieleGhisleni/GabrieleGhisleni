@@ -13,7 +13,7 @@ You can find me on [![LinkedIn][1.2]][1]
 #### Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=gruvbox&show_icons=true)](https://github.com/GabrieleGhisleni)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrieleGhisleni&theme=gruvbox)](https://wakatime.com/@GabrieleGhisleni)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrieleGhisleni&layout=compact&theme=gruvbox)](https://wakatime.com/@GabrieleGhisleni)
 
 <a href="https://github.com/GabrieleGhisleni/EnergyProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=EnergyProject&theme=gruvbox_light&show_icons=true" />
