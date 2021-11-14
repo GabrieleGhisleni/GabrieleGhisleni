@@ -40,7 +40,7 @@ You can find me on [![LinkedIn][1.2]][1]
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=Conjoint-Form-Template&theme=gruvbox_light&show_icons=true" />
 </a>
 
-Conjoint-Form-Template
+
 <a href="https://github.com/GabrieleGhisleni/GG-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=GG-website&theme=gruvbox_light&show_icons=true" />
 </a>
