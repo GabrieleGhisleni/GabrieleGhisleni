@@ -1,7 +1,8 @@
 ### Hi there! ⚡⚡
 
-I'm Gabriele Ghisleni and i'm a Data Scientist and Web Developer, based in Trento IT.
-Currently i am ending my Master degree in Data Science at the University of Trento.
+I amm Gabriele Ghisleni, i'm a Data Scientist and Web Developer, based in Trento IT.
+
+Currently I am finishing my Master degree in Data Science at the University of Trento.
 
 You can find me on [![LinkedIn][1.2]][1] 
 <!-- 
