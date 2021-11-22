@@ -13,6 +13,7 @@ You can find me on [![LinkedIn][1.2]][1]
 ![image](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/e235e0cfb35f391ed88b646b26a141967959080d/icons/javascript.svg)
 ![image](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/cbcd94f3652494f75c71bf23245a21677d7a55d7/icons/react.svg) -->
 
+
 #### Github Stats  ![stats](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/stats_24.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook,HTML&theme=gruvbox_light&show_icons=true)](https://github.com/GabrieleGhisleni)
@@ -38,6 +39,14 @@ You can find me on [![LinkedIn][1.2]][1]
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=Twitter-Social-Analysis&theme=gruvbox_light&show_icons=true" />
 </a>
 
+<a href="https://github.com/GabrieleGhisleni/DeepLearning-Lab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=DeepLearning-Lab&theme=gruvbox_light&show_icons=true" />
+</a>
+
+<a href="https://github.com/GabrieleGhisleni/Data-Viz ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=Data-Viz &theme=gruvbox_light&show_icons=true" />
+</a>
+
 <a href="https://github.com/GabrieleGhisleni/GasolinePrices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=GasolinePrices&theme=gruvbox_light&show_icons=true" />
 </a>
@@ -51,9 +60,9 @@ You can find me on [![LinkedIn][1.2]][1]
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=GG-website&theme=gruvbox_light&show_icons=true" />
 </a>
 
-<a href="https://github.com/GabrieleGhisleni/WebScraping-Subito.it">
+<!-- <a href="https://github.com/GabrieleGhisleni/WebScraping-Subito.it">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=WebScraping-Subito.it&theme=gruvbox_light&show_icons=true" />
-</a>
+</a> -->
 
 
 
