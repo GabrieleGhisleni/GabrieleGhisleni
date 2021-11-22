@@ -1,7 +1,7 @@
 
 <h3>Hi there! ⚡⚡</h3>
 
-<p style="font-size:15px">
+<p style="font-size:25px">
 I am Gabriele Ghisleni, i'm a Data Scientist and Web Developer, based in Trento IT.<br/>
 Currently I am finishing my Master degree in Data Science at the University of Trento.<br/>
 You can find me on [![LinkedIn][1.2]][1] or visit my personal web portolio [![PF][1.3]][2].
