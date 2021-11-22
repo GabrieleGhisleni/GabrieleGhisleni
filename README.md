@@ -7,7 +7,7 @@ Currently I am finishing my Master degree in Data Science at the University of T
 
 You can find me on [![LinkedIn][1.2]][1] or visit my personal web portolio [![PF][1.3]][2].
 
-
+<br/>
 
 <div align="center">
     <h3>Tools & Programming Languagues</h3>
@@ -77,6 +77,12 @@ You can find me on [![LinkedIn][1.2]][1] or visit my personal web portolio [![PF
     </a>
 </div>
 
+ 
+<br/>
+<h3> Github Stats  <img src="https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/stats_24.png"  style="display:inline" alt="git" width="40" height="40" /> </h3>
+                                                                                                              
+                                                                                                              
+                                                                                                              
 #### Github Stats ![stats](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/stats_24.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook,HTML&theme=react&show_icons=true)](https://github.com/GabrieleGhisleni)
