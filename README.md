@@ -43,8 +43,8 @@ You can find me on [![LinkedIn][1.2]][1]
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=DeepLearning-Lab&theme=gruvbox_light&show_icons=true" />
 </a>
 
-<a href="https://github.com/GabrieleGhisleni/Data-Viz ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=Data-Viz &theme=gruvbox_light&show_icons=true" />
+<a href="https://github.com/GabrieleGhisleni/Data-Viz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=Data-Viz&theme=gruvbox_light&show_icons=true" />
 </a>
 
 <a href="https://github.com/GabrieleGhisleni/GasolinePrices">
@@ -60,9 +60,9 @@ You can find me on [![LinkedIn][1.2]][1]
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=GG-website&theme=gruvbox_light&show_icons=true" />
 </a>
 
-<!-- <a href="https://github.com/GabrieleGhisleni/WebScraping-Subito.it">
+<a href="https://github.com/GabrieleGhisleni/WebScraping-Subito.it">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=WebScraping-Subito.it&theme=gruvbox_light&show_icons=true" />
-</a> -->
+</a>
 
 
 
