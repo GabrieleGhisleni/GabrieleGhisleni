@@ -80,6 +80,7 @@ You can find me on [![LinkedIn][1.2]][1] or visit my personal web portolio [![PF
  
 <br/>
 <h3 align="center"> Github Stats  <img src="https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/stats_24.png"  style="display:inline" alt="git" width="40" height="40" /> </h3>
+<br/>
                                                                                                               
                                                                                                               
                                                                                                               
