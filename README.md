@@ -5,6 +5,7 @@ I am Gabriele Ghisleni, i'm a Data Scientist and Web Developer, based in Trento 
 Currently I am finishing my Master degree in Data Science at the University of Trento.
 
 You can find me on [![LinkedIn][1.2]][1] 
+
 <!-- 
 #### Tools & Programming Languagues ![tools](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/tools_24.png)
 
@@ -14,9 +15,13 @@ You can find me on [![LinkedIn][1.2]][1]
 
 #### Github Stats  ![stats](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/stats_24.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=gruvbox_light&show_icons=true)](https://github.com/GabrieleGhisleni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter,HTML%20Notebook&theme=gruvbox_light&show_icons=true)](https://github.com/GabrieleGhisleni)
+
+
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrieleGhisleni&layout=compact&theme=gruvbox_light)](https://wakatime.com/@GabrieleGhisleni)
  -->
+ 
+ 
 <a href="https://github.com/GabrieleGhisleni/EnergyProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=EnergyProject&theme=gruvbox_light&show_icons=true" />
 </a>
