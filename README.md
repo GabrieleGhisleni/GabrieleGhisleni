@@ -11,7 +11,7 @@ You can find me on [![LinkedIn][1.2]][1]  or visit my personal web portolio [![P
 <!-- ![tools](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/tools_24.png)
  -->
 <div align="center">
-   #### Tools & Programming Languagues 
+   <h3> Tools & Programming Languagues </h3>
    <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
