@@ -4,7 +4,7 @@ I am Gabriele Ghisleni, i'm a Data Scientist and Web Developer, based in Trento 
 
 Currently I am finishing my Master degree in Data Science at the University of Trento.
 
-You can find me on [![LinkedIn][1.2]][1] 
+You can find me on [![LinkedIn][1.2]][1]  or visit my personal web portolio [![PF][1.3]][2]
 
 <!-- 
 #### Tools & Programming Languagues ![tools](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/tools_24.png)
@@ -70,3 +70,5 @@ You can find me on [![LinkedIn][1.2]][1]
 [1.2]: https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/linkedin_16x16.png?token=ARWCS6OL32Q4OIFY7U2VLD3BQ6NQE
 [1]: https://www.linkedin.com/in/gabriele-ghisleni-bb553a199/ 
 
+[1.3]:https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/pf.png
+[2]:https://gabrieleghisleni.github.io/GG-website/#/home
