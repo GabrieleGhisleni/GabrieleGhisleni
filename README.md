@@ -69,7 +69,7 @@ You can find me on [![LinkedIn][1.2]][1] or visit my personal web portolio [![PF
             alt="bootstrap" width="40" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
             alt="docker" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank">
