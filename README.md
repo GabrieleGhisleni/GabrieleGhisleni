@@ -40,11 +40,11 @@ You can find me on [![LinkedIn][1.2]][1] or visit my personal web portolio [![PF
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
             alt="tf" width="40" height="40" />
     </a>
-    <a href="https://getbootstrap.com/" target="_blank">
+    <a href="https://pandas.pydata.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
             alt="pandas" width="40" height="40" />
     </a>
-    <a href="https://getbootstrap.com/" target="_blank">
+    <a href="https://numpy.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy"
             width="40" height="40" />
     </a>
@@ -52,11 +52,11 @@ You can find me on [![LinkedIn][1.2]][1] or visit my personal web portolio [![PF
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
             alt="django" width="40" height="40" />
     </a>
-    <a href="https://getbootstrap.com/" target="_blank">
+    <a href="https://www.mysql.com/it/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" />
     </a>
-    <a href="https://getbootstrap.com/" target="_blank">
+    <a href="https://redis.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis"
             width="40" height="40" />
     </a>
