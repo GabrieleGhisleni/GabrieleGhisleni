@@ -7,9 +7,11 @@ Currently I am finishing my Master degree in Data Science at the University of T
 You can find me on [![LinkedIn][1.2]][1]  or visit my personal web portolio [![PF][1.3]][2].
 
 
-#### Tools & Programming Languagues ![tools](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/tools_24.png)
 
+<!-- ![tools](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/tools_24.png)
+ -->
 <div align="center">
+   #### Tools & Programming Languagues 
    <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
