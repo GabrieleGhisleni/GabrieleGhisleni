@@ -15,7 +15,7 @@ You can find me on [![LinkedIn][1.2]][1]
 
 #### Github Stats  ![stats](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/stats_24.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter,HTML%20Notebook&theme=gruvbox_light&show_icons=true)](https://github.com/GabrieleGhisleni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook,HTML&theme=gruvbox_light&show_icons=true)](https://github.com/GabrieleGhisleni)
 
 
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrieleGhisleni&layout=compact&theme=gruvbox_light)](https://wakatime.com/@GabrieleGhisleni)
