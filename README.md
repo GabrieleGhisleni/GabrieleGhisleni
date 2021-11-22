@@ -10,6 +10,7 @@ You can find me on [![LinkedIn][1.2]][1]  or visit my personal web portolio [![P
 
 <!-- ![tools](https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/tools_24.png)
  -->
+<br/>
 <div align="center">
    <h3> Tools & Programming Languagues </h3>
    <a href="https://www.python.org" target="_blank"> 
@@ -32,7 +33,17 @@ You can find me on [![LinkedIn][1.2]][1]  or visit my personal web portolio [![P
   </a> 
  
  <br/>
- <a href="https://www.tensorflow.org/api_docs" target="_blank"> 
+                                                                                                                                      
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+  </a>
+                                                                                                                                                                                                                                                                                       
+  <a href="https://it.reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a>
+                                                                                                                                                 
+                                                                                                                                                 
+  <a href="https://www.tensorflow.org/api_docs" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tf" width="40" height="40"/> 
   </a>
     <a href="https://www.docker.com/" target="_blank"> 
