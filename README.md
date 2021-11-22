@@ -15,8 +15,9 @@ You can find me on [![LinkedIn][1.2]][1]  or visit my personal web portolio [![P
    <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
-    <a href="https://www.rstudio.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rstudio/rstudio-original.svg" alt="R" width="40" height="40"/> 
+ 
+  <a href="https://www.rstudio.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="R" width="40" height="40"/> 
   </a>  
  
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
