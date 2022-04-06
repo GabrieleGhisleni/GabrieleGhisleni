@@ -50,7 +50,7 @@ You can find me on <a href="https://www.linkedin.com/in/gabriele-ghisleni-bb553a
             width="40" height="40" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"
             alt="django" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/it/" target="_blank">
