@@ -93,9 +93,18 @@ You can find me on <a href="https://www.linkedin.com/in/gabriele-ghisleni-bb553a
 
  -->
 
+<a href="https://github.com/GabrieleGhisleni/Unsupervised-domain-adaptation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=Unsupervised-domain-adaptation&theme=react&show_icons=true" />
+</a>
+
 <a href="https://github.com/GabrieleGhisleni/EnergyProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=EnergyProject&theme=react&show_icons=true" />
 </a>
+
+<a href="https://github.com/GabrieleGhisleni/DistilBERT-for-Sentiment-Classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=DistilBERT-for-Sentiment-Classification&theme=react&show_icons=true" />
+</a>
+
 
 <a href="https://github.com/GabrieleGhisleni/ImageRetrival-ConvNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=ImageRetrival-ConvNN&theme=react&show_icons=true" />
@@ -113,6 +122,12 @@ You can find me on <a href="https://www.linkedin.com/in/gabriele-ghisleni-bb553a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=DeepLearning-Lab&theme=react&show_icons=true" />
 </a>
 
+<a href="https://github.com/GabrieleGhisleni/Geo-Dolomities">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=Geo-Dolomities&theme=react&show_icons=true" />
+</a>
+
+
+
 <a href="https://github.com/GabrieleGhisleni/Data-Viz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=Data-Viz&theme=react&show_icons=true" />
 </a>
@@ -129,9 +144,6 @@ You can find me on <a href="https://www.linkedin.com/in/gabriele-ghisleni-bb553a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=GG-website&theme=react&show_icons=true" />
 </a>
 
-<a href="https://github.com/GabrieleGhisleni/WebScraping-Subito.it">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrieleGhisleni&repo=WebScraping-Subito.it&theme=react&show_icons=true" />
-</a>
 
 <!-- Icons -->
 
