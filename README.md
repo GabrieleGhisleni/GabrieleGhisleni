@@ -3,8 +3,8 @@
 <h3 style="color:red">Hi there! ⚡⚡</h3>
 
 <p>
-I am Gabriele Ghisleni, i'm a Data Scientist and Web Developer, based in Trento IT.<br/>
-Currently I am finishing my Master degree in Data Science at the University of Trento.<br/>
+I am Gabriele Ghisleni, i'm a Data Scientist and Machine Learning expert, based in Trento IT.<br/>
+In addition to my background in data science, I have also worked as a full-stack developer. This allows me to efficiently create MVPs, PoC, and other projects efficiently.<br/>
 You can find me on <a href="https://www.linkedin.com/in/gabriele-ghisleni-bb553a199/"><img src="https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/linkedin_16x16.png?"/></a> or visit my personal web portolio <a href="https://gabrieleghisleni.github.io/GG-website/#/home"><img src="https://raw.githubusercontent.com/GabrieleGhisleni/GabrieleGhisleni/main/icons/pf.png"/></a>.
 </p>
 
