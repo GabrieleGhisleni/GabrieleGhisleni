@@ -67,12 +67,9 @@ M.Sc. Data Science · B.Sc. Philosophy.
 
 ### Open Source
 
-**[llm-elasticsearch-cache ↗](https://github.com/SpazioDati/llm-elasticsearch-cache)** — `ElasticsearchCache` + `ElasticsearchStore`: ILM-friendly LLM completion cache and embedding vector store; now part of the official LangChain library.
+**[llm-elasticsearch-cache ↗](https://github.com/SpazioDati/llm-elasticsearch-cache)** — `ElasticsearchCache` + `ElasticsearchStore`: LLM completion cache and embedding vector store; now part of the official LangChain library.
 
 **[langfuse-freeze ↗](https://github.com/SpazioDati/langfuse-freeze)** · **[langfuse-freeze-js ↗](https://github.com/SpazioDati/langfuse-freeze-js)** &nbsp;`PyPI` `npm` — offline-resilient wrapper for the Langfuse prompt SDK; snapshots prompts to disk at startup and falls back transparently when Langfuse is unreachable.
 
 ---
 
-### GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook,HTML&theme=react&v=2)](https://github.com/GabrieleGhisleni)
