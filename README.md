@@ -75,5 +75,4 @@ M.Sc. Data Science · B.Sc. Philosophy.
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook,HTML&theme=react&show_icons=true)](https://github.com/GabrieleGhisleni)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleGhisleni&layout=compact&langs_count=10&hide=Jupyter%20Notebook,HTML&theme=react&v=2)](https://github.com/GabrieleGhisleni)
